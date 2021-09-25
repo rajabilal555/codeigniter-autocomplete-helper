@@ -67,7 +67,7 @@
  *                          *============ Database Libraries ================
  *
  *
- * @property CI_DB_active_record $db   Database
+ * @property CI_DB_mysqli_driver $db   Database
  * @property CI_DB_forge $dbforge     Database
  * @property CI_DB_result $result                 Database
  *
@@ -151,7 +151,7 @@ class CI_Controller
  *                          *============ Database Libraries ================
  *
  *
- * @property CI_DB_active_record $db   Database
+ * @property CI_DB_mysqli_driver $db   Database
  * @property CI_DB_forge $dbforge     Database
  * @property CI_DB_result $result                 Database
  *
